@@ -1,0 +1,19 @@
+{
+    "name": "igordahora/microservices-common",
+    "description": "Package Files Utils Microservices Courses",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Igordahora\\MicroservicesCommon\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Igor da Hora",
+            "email": "igordahora@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
